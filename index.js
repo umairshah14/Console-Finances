@@ -146,7 +146,7 @@ for (let i = 0; i < finances.length-1; i++) {
 avgEntirePeriod = PNLamount / totalMonths
 avgEntirePeriod = avgEntirePeriod.toFixed(2)
 
-// 
+// ANSWER
 console.log('Financial Analysis');
 console.log('----------------------------');
 console.log(`Total Months: ${totalMonths}`)
