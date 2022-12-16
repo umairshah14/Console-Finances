@@ -1,94 +1,27 @@
-# Unit 4 Challenge: Console Finances
+# My-portfolio-page
 
-## Overview
+## Description
+I created this repository to hold my submission for the week4 challenge which was to create a Financial Analysis inside the console from a dataset provided by the user 
 
-In this challenge, you'll be using the concepts you've learned to complete the required activity. This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset in the `starter/index.js` file.
+This task helped me further solidify my understandings and knowledge of basic javascript syntaxes such as For Loops, If Statements and template literals.
 
-## Instructions
+Below is a screenshot of what the project looks like when opened in the browser console
 
-1. Create a new GitHub repo called `Console-Finances`. Then, clone it to your computer.
+![screenshot of the project](./Screenshot%202022-12-16%20at%2019.59.49.png)
 
-2. Copy the starter files in your local git repository.
-   
-You have been given a dataset composed of arrays with two fields, Date and Profit/Losses.
+## Usage
 
-Your task is to write JavaScript code that analyzes the records to calculate each of the following:
+To use and try out this project, first clone the repository from GitHub with the following link: https://github.com/umairshah14/Console-Finances
 
-* The total number of months included in the dataset.
 
-* The net total amount of Profit/Losses over the entire period.
+## Credits
 
-* The average of the **changes** in Profit/Losses over the entire period.
-  * You will need to track what the total change in profits are from month to month and then find the average.
-  * (`Total/Number of months`)
+Umair Shah
 
-* The greatest increase in profits (date and amount) over the entire period.
+## Sources and Tutorials
 
-* The greatest decrease in losses (date and amount) over the entire period.
+I used the following tutorials:
 
-When you open your code in the browser your resulting analysis should look similar to the following:
-
-  ```text
-  Financial Analysis
-  ----------------------------
-  Total Months: 25
-  Total: $2561231
-  Average  Change: $-2315.12
-  Greatest Increase in Profits: Feb-2012 ($1926159)
-  Greatest Decrease in Profits: Sep-2013 ($-2196167)
-  ```
-
-Your final code should print the analysis to the console.
-
-**Hints:**
-
-* You will need to do some research on your own for this project!
-
-* Remember, in order to combine strings and variables in the console you will need to use **concatenation**.
-
-* How do you only print to the nearest 100th in JavaScript?
-
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Repository Quality: 12%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for variable naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-
-## Copyright
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
+https://www.w3schools.com/js/js_if_else.asp
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/js/js_string_templates.asp
