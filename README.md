@@ -18,7 +18,7 @@ To use and try out this project, first clone the repository from GitHub with the
 
 Umair Shah
 
-## Sources and Tutorials
+## Sources & Tutorials
 
 I used the following tutorials:
 
