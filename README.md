@@ -1,4 +1,4 @@
-# My-portfolio-page
+# Console-Finances
 
 ## Description
 I created this repository to hold my submission for the week4 challenge which was to create a Financial Analysis inside the console from a dataset provided by the user 
