@@ -146,3 +146,11 @@ for (let i = 0; i < finances.length-1; i++) {
 avgEntirePeriod = PNLamount / totalMonths
 avgEntirePeriod = avgEntirePeriod.toFixed(2)
 
+// 
+console.log('Financial Analysis');
+console.log('----------------------------');
+console.log(`Total Months: ${totalMonths}`)
+console.log(`Total: $${PNLamount}`)
+console.log(`Average Change: $${avgEntirePeriod}`); 
+console.log(`Greatest Increase in Profits: ${monthGreatestProfit} $${greatestProfit}`); 
+console.log(`Greatest Decrease in Profits: ${monthLeastProfit} $${leastProfit}`); 
